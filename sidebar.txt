@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[bfk:home|Door43 (bfk)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-bfk|d43-bfk repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-bfk/archive/master.zip|d43-bfk.zip]]
+
+**Recent Changes**
+{{changes>ns = bfk}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/bfk|Ethnologue data]]
+
